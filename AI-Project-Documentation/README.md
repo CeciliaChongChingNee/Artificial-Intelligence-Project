@@ -6,7 +6,7 @@
 
 **Team Members:** 
 
-<img src="https://github.com/CeciliaChongChingNee/Artificial-Intelligence-Project/blob/main/AI-Project-Documentation/B031910390.jpg" width="50" height="50">
+<img src="https://github.com/CeciliaChongChingNee/Artificial-Intelligence-Project/blob/main/AI-Project-Documentation/B031910390.jpg" width="100" height="150">
 Cecilia Chong Ching Nee (B031910390)
 - Siew Chung Seng (B031910342)
 - Vishan Menan A/L Balakrishnan (B031910018)
