@@ -6,7 +6,7 @@
 
 **Team Members:** 
 
-![image](https://github.com/CeciliaChongChingNee/Artificial-Intelligence-Project/blob/main/AI-Project-Documentation/B031910390.jpg)
+![image](https://github.com/CeciliaChongChingNee/Artificial-Intelligence-Project/blob/main/AI-Project-Documentation/B031910390.jpg = 40 x 40)
 
 Cecilia Chong Ching Nee (B031910390)
 - Siew Chung Seng (B031910342)
