@@ -10,7 +10,7 @@
 - Vishan Menan A/L Balakrishnan (B031910018)
 - Muhammad Putra Alif Bin Ismail (B031910115)
 
-- [ ] **Objectives:**
+**Objectives:**
 - to develop a character recognition system
 - to prepare dataset for model training of character recognition system
 - to predict character accurately with handwritten character recognition system
