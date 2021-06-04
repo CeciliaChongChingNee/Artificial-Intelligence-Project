@@ -1,0 +1,16 @@
+# HANDWRITTEN CHARACTER RECOGNITION USING CONVOLUTIONAL NEURAL NETWORK
+
+## A. PROJECT SUMMARY
+
+**Project Title:** Handwritten Character Recognition
+
+**Team Members:** 
+- Cecilia Chong Ching Nee (B031910390)
+- Siew Chung Seng (B031910342)
+- Vishan Menan A/L Balakrishnan (B031910018)
+- Muhammad Putra Alif Bin Ismail (B031910115)
+
+**Objectives:**
+- to develop a character recognition system
+- to prepare dataset for model training of character recognition system
+- to predict character accurately with handwritten character recognition system
