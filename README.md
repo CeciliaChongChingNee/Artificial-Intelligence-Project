@@ -32,5 +32,5 @@ education. Unfortunately, the widespread of covid-19 disease has caused the lock
 In this project, we will be providing an interface where the user can learn to write and recognise alphabets. This project is suitable for 
 the children under process of learning alphabets as it is easy to use. The user only have to click on an audio button then it will read out the alphabet to be written, after the user have wrote the alphabet click "Check Answer" to verify what they have written by using machine learning.
 
-![Coding](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2020/09/text-prediction-on-test-data.png)
-Figure 1 shows the Output of the Handwritten Character Prediction
+![Coding](https://github.com/CeciliaChongChingNee/Artificial-Intelligence-Project/blob/main/website.JPG)
+Figure 1 shows the website of Handwritten Character Recognition
