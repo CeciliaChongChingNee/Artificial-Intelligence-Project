@@ -36,7 +36,7 @@ In this project, we will be providing an interface where the user can learn to w
 the children under process of learning alphabets as it is easy to use. The user only have to click on an audio button then it will read out the alphabet to be written, after the user have wrote the alphabet click "Check Answer" to verify what they have written by using machine learning.
 
 ![Coding](https://github.com/CeciliaChongChingNee/Artificial-Intelligence-Project/blob/main/website.JPG)
-Figure 1 shows the website of Handwritten Character Recognition
+Figure 2 shows the website of Handwritten Character Recognition
 
 ## C.  DATASET
 
@@ -46,4 +46,12 @@ This project will be split into 3 parts, which are:
 - Deployment : In this stage we will deploy the model by loading it and allow user to interact with it through GUI such as website
 
 Our dataset sample are shown as below:
-![image](
+![image](https://github.com/CeciliaChongChingNee/Artificial-Intelligence-Project/blob/main/dataset.png)
+Figure 3 shows the sampe of dataset that prepared by ourselves
+
+Our dataset for training are shown as below:
+![image](https://user-images.githubusercontent.com/80866120/115016783-224cec80-9ee8-11eb-8147-88782634bd45.png)
+Figure 4 shows sample of the data used for training the model
+
+Our website for deploy the model are shown as below:
+
