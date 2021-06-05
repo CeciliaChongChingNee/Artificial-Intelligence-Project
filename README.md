@@ -10,6 +10,9 @@
 - Vishan Menan A/L Balakrishnan (B031910018)
 - Muhammad Putra Alif Bin Ismail (B031910115)
 
+![Coding](https://github.com/CeciliaChongChingNee/Artificial-Intelligence-Project/blob/main/team-member.JPG)
+Figure 1 shows the team member of this project
+
 **Objectives:**
 - to develop a character recognition system
 - to prepare dataset for model training of character recognition system
