@@ -47,15 +47,19 @@ This project will be split into 3 parts, which are:
 
 Our dataset sample are shown as below:
 ![image](https://github.com/CeciliaChongChingNee/Artificial-Intelligence-Project/blob/main/dataset.png)
- Figure 3 shows the sample of dataset that prepared by ourselves
+
+Figure 3 shows the sample of dataset that prepared by ourselves
+
 
 Our dataset for training are shown as below:
 ![image](https://user-images.githubusercontent.com/80866120/115016783-224cec80-9ee8-11eb-8147-88782634bd45.png)
 Figure 4 shows the sample of the data used for training the model
 
+
 Our website for deploy the model are shown as below:
 ![image](https://github.com/CeciliaChongChingNee/Artificial-Intelligence-Project/blob/main/testing.JPG)
 Figure 5 shows the sample of the testing for website
+
 
 The dataset we'll be using contains 26 folders (A-Z) containing handwritten images in size 2828 pixels, each alphabet in the image is centre fitted to 2020 pixel box.
 
