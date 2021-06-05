@@ -47,11 +47,24 @@ This project will be split into 3 parts, which are:
 
 Our dataset sample are shown as below:
 ![image](https://github.com/CeciliaChongChingNee/Artificial-Intelligence-Project/blob/main/dataset.png)
-Figure 3 shows the sampe of dataset that prepared by ourselves
+ Figure 3 shows the sample of dataset that prepared by ourselves
 
 Our dataset for training are shown as below:
 ![image](https://user-images.githubusercontent.com/80866120/115016783-224cec80-9ee8-11eb-8147-88782634bd45.png)
-Figure 4 shows sample of the data used for training the model
+Figure 4 shows the sample of the data used for training the model
 
 Our website for deploy the model are shown as below:
+![image](https://github.com/CeciliaChongChingNee/Artificial-Intelligence-Project/blob/main/testing.JPG)
+Figure 5 shows the sample of the testing for website
 
+The dataset we'll be using contains 26 folders (A-Z) containing handwritten images in size 2828 pixels, each alphabet in the image is centre fitted to 2020 pixel box.
+
+Each image is stored as Gray-level
+
+Kernel CSVToImages contains script to convert .CSV file to actual images in .png format in structured folder.
+
+The images are taken from NIST(https://www.nist.gov/srd/nist-special-database-19) and NMIST large dataset and few other sources which were then formatted as mentioned above.
+
+Furthermore, we also developed a simple signature pad website that allow us collect actual data that would be use for model prediction during deployment. These images are written by using the same signature pad intended for deployment therefore simulating the actual performance. These data will be stored in another folder but in a similar manner and be only used for testing the model accuracy.
+
+Our goal is to train a CNN model that is capable of predicting/recognizing the inputted image of a character.
