@@ -37,3 +37,13 @@ the children under process of learning alphabets as it is easy to use. The user 
 
 ![Coding](https://github.com/CeciliaChongChingNee/Artificial-Intelligence-Project/blob/main/website.JPG)
 Figure 1 shows the website of Handwritten Character Recognition
+
+## C.  DATASET
+
+This project will be split into 3 parts, which are:
+- Preprocessing : Here we will focus on preprocessing the data to allow for better training results
+- Training : Here we will focus on the training of the model and the validation of training results
+- Deployment : In this stage we will deploy the model by loading it and allow user to interact with it through GUI such as website
+
+Our dataset sample are shown as below:
+![image](
