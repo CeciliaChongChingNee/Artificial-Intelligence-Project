@@ -134,16 +134,15 @@ The following is the test result of our model against 74490 test images:
 
 ![image](https://user-images.githubusercontent.com/33794652/120072832-3fb8cd00-c0c8-11eb-99cf-97faea98291f.png)
 
-Figure 3 shows result of model training and validation
+Figure 6 shows result of model training and validation
 
 As shown in the figure above, we are able to get an accuracy of 95% on our model.
 
-![image](https://user-images.githubusercontent.com/33794652/120072933-b786f780-c0c8-11eb-99ed-0d6b9317b63a.png)
 
-Figure 4 shows result by using handwritten character recognition web application
+
+Figure 7 shows demo by using handwritten character recognition web application
 
 ## G.   PROJECT PRESENTATION 
 
-In this project, you will be able to create a Handwritten character recoginition system using Keras, TensorFlow and CNN. To create the model we collect image of handwritten character and preprocessed them into csv for training purpose. We fine-tuned the model and is able to obtained a classifier that is 95% accurate.
+In this project, you will be able to create a Handwritten character recoginition system using Keras, TensorFlow and CNN. To create the model we collect image of handwritten character and preprocessed them into csv for training purpose. We fine-tuned the model and is able to obtained a classifier that is 95% accurate. We then load this model on a server that allows user to draw a character and use it to predict/recognize what did the user wrote.
 
-We then load this model on a server that allows user to draw a character and use it to predict/recognize what did the user wrote.
