@@ -138,7 +138,7 @@ Figure 6 shows result of model training and validation
 
 As shown in the figure above, we are able to get an accuracy of 95% on our model.
 
-
+[![Figure7](https://img.youtube.com/vi/wEa8BHbnsCw/0.jpg)](https://www.youtube.com/watch?v=wEa8BHbnsCw "Figure 7")
 
 Figure 7 shows demo by using handwritten character recognition web application
 
