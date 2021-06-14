@@ -67,7 +67,7 @@ Each image is stored as Gray-level
 
 Kernel CSVToImages contains script to convert .CSV file to actual images in .png format in structured folder.
 
-The images are taken from NIST(https://www.nist.gov/srd/nist-special-database-19) and NMIST large dataset and few other sources which were then formatted as mentioned above.
+The images are taken from NIST (https://www.nist.gov/srd/nist-special-database-19) and NMIST large dataset and few other sources which were then formatted as mentioned above.
 
 Furthermore, we also developed a simple signature pad website that allow us collect actual data that would be use for model prediction during deployment. These images are written by using the same signature pad intended for deployment therefore simulating the actual performance. These data will be stored in another folder but in a similar manner and be only used for testing the model accuracy.
 
